@@ -2,8 +2,9 @@
 - 👀 I’m interested in tecnology and innovation
 - 🌱 I’m currently learning web development, data analysis, software development and more
 - 💞️ I’m looking to collaborate on development projects, remote work, process automation
-- 📫 How to reach me: Linkedln. https://www.linkedin.com/in/eduargomez/
--                      Instagram. https://www.instagram.com/eduarjosegomezramos/
+- 📫 How to reach me:
+- Linkedln. https://www.linkedin.com/in/eduargomez/
+- Instagram. https://www.instagram.com/eduarjosegomezramos/
 -          
 - 😄 Pronouns: EDOGO17
 - ⚡ Fun fact: Amateur basketball player
